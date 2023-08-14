@@ -5,7 +5,8 @@
 This repository contains a Power BI dashboard that provides an interactive and visually appealing way to analyze and visualize data. The dashboard is designed to help users monitor key performance indicators (KPIs), track trends, and make data-driven decisions.
 
 ## DashBoard Preview
-![Dashboard Preview video](https://github.com/Tripsananya/Dashboards/assets/98031173/1112d82d-53db-479a-bab1-671e21be6909)
+
+![gif](https://github.com/Tripsananya/Dashboards/assets/98031173/cfd8f861-cebd-4582-99fd-f7cdaf82d90d)
 
 ## DashBoard Link
 https://app.powerbi.com/groups/03304f40-9f23-40b4-8a1a-69a897caef36/reports/865ddf99-24fa-4a83-a368-ac81d4834503?ctid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46&pbi_source=linkShare
