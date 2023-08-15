@@ -1,5 +1,4 @@
 
-# Hi, I'm Ananya! 👋
 
 
 # Power BI and Tableau Dashboard Repository
