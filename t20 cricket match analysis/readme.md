@@ -1,9 +1,12 @@
 
-
 # T20 Cricket Match Analysis using Power BI
 
 Welcome to the T20 Cricket Match Analysis repository! This repository contains the code and resources for performing in-depth analysis of T20 cricket matches using web scraping techniques and Power BI. By extracting data directly from cricket websites, you can gain insights into player performance, team strategies, match trends, and more.
 
+
+## Dashboard Link
+
+https://app.powerbi.com/groups/me/reports/d7ab763b-35b4-4a93-920c-95831bf0be95/ReportSection3a8cb23b814911c94608?experience=power-bi
 
 ## Table of Content
 
